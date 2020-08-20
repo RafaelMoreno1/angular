@@ -1,3 +1,2 @@
 Aqui pondremos algunos apuntes importantes
 #angular
-a perro
